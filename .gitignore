@@ -36,3 +36,8 @@ CMakeLists.txt
 cimgui/.vs/
 cimgui/cimgui.vcxproj.user
 cimgui/x64/
+x64/
+
+# Visual Studio cruft
+.vs/
+*.vcxproj.user
