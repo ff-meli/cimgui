@@ -39,3 +39,8 @@ cimgui/x64/
 # Test / Build
 bld/
 build/
+
+
+# Customizations
+!generator/luajit/*
+!generator/vswhere.exe
